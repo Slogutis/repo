@@ -1,0 +1,15 @@
+Package: com.ihack102.adblockforyoutube
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: iHack102 <d-_-x@hotmail.com>
+Depends: mobilesubstrate
+Filename: /adblockforyt.deb
+Size: 2154
+MD5sum: 1E472F1D2CDEEA9241C524A44853169E
+SHA1: 8FDDF3122BCAF1B16BFCBBDB9D88AA4F5A5634C3
+SHA256: E484B69DA48776E023E9F47DEC559FE88F719D373DD6B858D7B3E3C115A13F58
+Section: Tweaks
+Description: Block All Ads In YouTube App !
+HomePage: slogutis.github.io/Blog/
+Author: iHack102 <d-_-x@hotmail.com>
+Name: Adblock For YouTube
